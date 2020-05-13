@@ -4,6 +4,10 @@ Typora supports some Markdown extensions for diagrams, once they are enabled fro
 
 When exporting as HTML, PDF, epub, docx, those rendered diagrams will also be included, but diagrams features are not supported when exporting markdown into other file formats in current version. Besides, you should also notice that diagrams is not supported by standard Markdown, CommonMark or GFM. Therefore, we still recommend you to insert an image of these diagrams instead of write them in Markdown directly.
 
+Reference: http://support.typora.io/Draw-Diagrams-With-Markdown/ 
+
+[TOC]
+
 ## Sequence Diagrams
 
 This feature uses [js-sequence](https://bramp.github.io/js-sequence-diagrams/), which turns the following code block into a rendered diagram:
